@@ -1,5 +1,8 @@
 <update>
   <code>101</code>
   <name>1.0.1</name>
-  <comment>1.add language.&#xA;2.add training mode switch.&#xA;3.add software update.</comment>
+  <comment>
+    <english>1.add language.&#xA;2.add training mode switch.&#xA;3.add software update.<english>
+    <french>1.add language.(french)&#xA;2.add training mode switch.&#xA;3.add software update.<french>
+  </comment>
 </update>
