@@ -1,8 +1,8 @@
 <update>
-  <code>103</code>
-  <name>1.0.3</name>
+  <code>104</code>
+  <name>1.0.4</name>
   <comment>
-    <english>1.Add CGI(local port:8483).</english>
-    <french>1.Add CGI(local port:8483).</french>
+    <english>1.Add Clerk.&#xA;&#xD;2.Add manager password.&#xA;&#xD;3.Add cig switch.</english>
+    <french>1.Add Clerk.&#xA;&#xD;2.Add manager password.&#xA;&#xD;3.Add cig switch.</french>
   </comment>
 </update>
