@@ -1,6 +1,6 @@
 <update>
-  <code>104</code>
-  <name>1.0.4</name>
+  <code>105</code>
+  <name>1.0.5</name>
   <comment>
     <english> 1.Add Clerk (View, Add, Edit, Delete).&#xA;&#xD;2.Add manager password(default:1234) switch (Menu Secure, Trans Type Secure, Edit Password, Retrieve Password).&#xA;&#xD;3.Add CGI switch.</english>
     <french> 1.Add Clerk (View, Add, Edit, Delete).&#xA;&#xD;2.Add manager password(default:1234) switch (Menu Secure, Trans Type Secure, Edit Password, Retrieve Password).&#xA;&#xD;3.Add CGI switch.</french>
