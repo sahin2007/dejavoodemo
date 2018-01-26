@@ -1,8 +1,8 @@
 <update>
-  <code>108</code>
-  <name>1.0.8</name>
+  <code>109</code>
+  <name>1.0.9</name>
   <comment>
-    <english> 1.Add some settings.&#xA;&#xD;2.Update print receipt.(incomplete)&#xA;&#xD;3.Update transaction.(incomplete)</english>
-    <french> 1.Add some settings.&#xA;&#xD;2.Update print receipt.(incomplete)&#xA;&#xD;3.Update transaction.(incomplete)</french>
+    <english> 1.Update print receipt.(incomplete)&#xA;&#xD;2.Update transaction.(incomplete)&#xA;&#xD;3.Add Reprint Receipt.&#xA;&#xD;4.Add some settings.</english>
+    <french> 1.Update print receipt.(incomplete)&#xA;&#xD;2.Update transaction.(incomplete)&#xA;&#xD;3.Add Reprint Receipt.&#xA;&#xD;4.Add some settings.</french>
   </comment>
 </update>
