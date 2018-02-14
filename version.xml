@@ -1,8 +1,8 @@
 <update>
-  <code>113</code>
-  <name>1.1.3</name>
+  <code>114</code>
+  <name>1.1.4</name>
   <comment>
-    <english> ** An interim fix for paper jam **&#xA;&#xD;1.Update print receipt.(incomplete)&#xA;&#xD;2.Update transaction.(incomplete)&#xA;&#xD;3.Update print report.(incomplete)&#xA;&#xD;4.Add Settlement.&#xA;&#xD;5.Add some settings.</english>
-    <french> ** An interim fix for paper jam **&#xA;&#xD;1.Update print receipt.(incomplete)&#xA;&#xD;2.Update transaction.(incomplete)&#xA;&#xD;3.Update print report.(incomplete)&#xA;&#xD;4.Add Settlement.&#xA;&#xD;5.Add some settings.</french>
+    <english> ** Fix paper jam **&#xA;&#xD;1.Update print receipt.(incomplete)&#xA;&#xD;2.Update transaction.(incomplete)&#xA;&#xD;3.Update print report.(incomplete)&#xA;&#xD;4.Add Settlement.&#xA;&#xD;5.Add some settings.</english>
+    <french> ** Fix paper jam **&#xA;&#xD;1.Update print receipt.(incomplete)&#xA;&#xD;2.Update transaction.(incomplete)&#xA;&#xD;3.Update print report.(incomplete)&#xA;&#xD;4.Add Settlement.&#xA;&#xD;5.Add some settings.</french>
   </comment>
 </update>
