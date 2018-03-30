@@ -1,6 +1,6 @@
 <update>
-  <code>124</code>
-  <name>01.02.04</name>
+  <code>125</code>
+  <name>01.02.05</name>
   <comment>
     <english> ** Update for Register **&#xA;&#xD;** Upload transaction to Merchant Portal **&#xA;&#xD;1.Update print receipt.(incomplete)&#xA;&#xD;2.Update transaction.(incomplete)&#xA;&#xD;3.Update print report.(incomplete)&#xA;&#xD;4.Add custom report.(incomplete)&#xA;&#xD;5.Add some settings.&#xA;&#xD;6.Update some UI.</english>
     <french> ** Update for Register **&#xA;&#xD;** Upload transaction to Merchant Portal **&#xA;&#xD;1.Update print receipt.(incomplete)&#xA;&#xD;2.Update transaction.(incomplete)&#xA;&#xD;3.Update print report.(incomplete)&#xA;&#xD;4.Add custom report.(incomplete)&#xA;&#xD;5.Add some settings.&#xA;&#xD;6.Update some UI.</french>
