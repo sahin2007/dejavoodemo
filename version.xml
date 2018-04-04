@@ -1,8 +1,8 @@
 <update>
-  <code>125</code>
-  <name>01.02.05</name>
+  <code>126</code>
+  <name>01.02.06</name>
   <comment>
-    <english> ** Update for Register **&#xA;&#xD;** Upload transaction to Merchant Portal **&#xA;&#xD;1.Update print receipt.(incomplete)&#xA;&#xD;2.Update transaction.(incomplete)&#xA;&#xD;3.Update print report.(incomplete)&#xA;&#xD;4.Add custom report.(incomplete)&#xA;&#xD;5.Add some settings.&#xA;&#xD;6.Update some UI.</english>
-    <french> ** Update for Register **&#xA;&#xD;** Upload transaction to Merchant Portal **&#xA;&#xD;1.Update print receipt.(incomplete)&#xA;&#xD;2.Update transaction.(incomplete)&#xA;&#xD;3.Update print report.(incomplete)&#xA;&#xD;4.Add custom report.(incomplete)&#xA;&#xD;5.Add some settings.&#xA;&#xD;6.Update some UI.</french>
+    <english> ** Update for Register **&#xA;&#xD;1.Update transaction.(incomplete)&#xA;&#xD;2.Add some menus.&#xA;&#xD;3.Update some UI.&#xA;&#xD;4.Fixing for saturn1000.(incomplete)</english>
+    <french> ** Update for Register **&#xA;&#xD;1.Update transaction.(incomplete)&#xA;&#xD;2.Add some menus.&#xA;&#xD;3.Update some UI.&#xA;&#xD;4.Fixing for saturn1000.(incomplete)</french>
   </comment>
 </update>
