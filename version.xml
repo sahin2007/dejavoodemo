@@ -1,8 +1,8 @@
 <update>
-  <code>126</code>
-  <name>01.02.06</name>
+  <code>127</code>
+  <name>01.02.07</name>
   <comment>
-    <english> ** Update for Register **&#xA;&#xD;1.Update transaction.(incomplete)&#xA;&#xD;2.Add some menus.&#xA;&#xD;3.Update some UI.&#xA;&#xD;4.Fixing for saturn1000.(incomplete)</english>
-    <french> ** Update for Register **&#xA;&#xD;1.Update transaction.(incomplete)&#xA;&#xD;2.Add some menus.&#xA;&#xD;3.Update some UI.&#xA;&#xD;4.Fixing for saturn1000.(incomplete)</french>
+    <english> 1.Update transaction.(incomplete)&#xA;&#xD;2.Add some menus.&#xA;&#xD;3.Update some UI.&#xA;&#xD;4.Fixing for saturn1000.(incomplete)</english>
+    <french> 1.Update transaction.(incomplete)&#xA;&#xD;2.Add some menus.&#xA;&#xD;3.Update some UI.&#xA;&#xD;4.Fixing for saturn1000.(incomplete)</french>
   </comment>
 </update>
