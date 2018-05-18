@@ -1,8 +1,8 @@
 <update>
-  <code>130</code>
-  <name>01.03.00</name>
+  <code>131</code>
+  <name>01.03.01</name>
   <comment>
-    <english> 1.Update transaction.(incomplete)&#xA;&#xD;2.Add some menus.&#xA;&#xD;3.Update some UI.&#xA;&#xD;4.Fixing for saturn1000.(incomplete)</english>
-    <french> 1.Update transaction.(incomplete)&#xA;&#xD;2.Add some menus.&#xA;&#xD;3.Update some UI.&#xA;&#xD;4.Fixing for saturn1000.(incomplete)</french>
+    <english> 1.Update transaction.(incomplete)&#xA;&#xD;2.Add some menus.&#xA;&#xD;3.Update some UI.&#xA;&#xD;</english>
+    <french> 1.Update transaction.(incomplete)&#xA;&#xD;2.Add some menus.&#xA;&#xD;3.Update some UI.&#xA;&#xD;</french>
   </comment>
 </update>
