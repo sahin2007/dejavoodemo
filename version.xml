@@ -1,6 +1,6 @@
 <update>
-  <code>135</code>
-  <name>01.03.05</name>
+  <code>136</code>
+  <name>01.03.06</name>
   <comment>
     <english> **Because the docking with the library has not been completed. Now, Transaction in NON DEMO MODE will Make the APP CRASH.**&#xA;&#xD;&#xA;&#xD;1.Update transaction.(incomplete)&#xA;&#xD;2.Add some menus.&#xA;&#xD;3.Update some UI.&#xA;&#xD;</english>
     <french> **Because the docking with the library has not been completed. Now, Transaction in NON DEMO MODE will Make the APP CRASH.**&#xA;&#xD;&#xA;&#xD;1.Update transaction.(incomplete)&#xA;&#xD;2.Add some menus.&#xA;&#xD;3.Update some UI.&#xA;&#xD;</french>
