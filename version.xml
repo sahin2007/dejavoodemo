@@ -1,6 +1,6 @@
 <update>
-  <code>010316</code>
-  <name>01.03.16</name>
+  <code>010317</code>
+  <name>01.03.17</name>
   <comment>
     <english> 1.Fixed cgi bugs&#xA;&#xD;  ..Can not cancel in application mode&#xA;&#xD;  ..Can not do settement&#xA;&#xD;2.Added store and forward&#xA;&#xD;3.Added multi merchant(Login mode and Selection mode)</english>
     <french> 1.Fixed cgi bugs&#xA;&#xD;  ..Can not cancel in application mode&#xA;&#xD;  ..Can not do settement&#xA;&#xD;2.Added store and forward&#xA;&#xD;3.Added multi merchant(Login mode and Selection mode)</french>
